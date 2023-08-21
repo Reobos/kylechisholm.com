@@ -10,6 +10,7 @@ pre {
 
 pre[class*='language-'] {
   padding: var(--space-s-m);
+  border: 2px solid var(--color-highlight);
 }
 
 code[class*='language-'] {
@@ -38,6 +39,20 @@ pre[class*='language-'] {
   hyphens: none;
 }
 
+code[class*='language-']::-moz-selection,
+pre[class*='language-']::-moz-selection,
+code[class*='language-'] ::-moz-selection,
+pre[class*='language-'] ::-moz-selection {
+  background: var(--color-highlight);
+}
+
+code[class*='language-']::selection,
+pre[class*='language-']::selection,
+code[class*='language-'] ::selection,
+pre[class*='language-'] ::selection {
+  background: var(--color-secondary-glare);
+}
+
 :not(pre) > code[class*='language-'] {
   white-space: normal;
   border-radius: var(--border-radius);
@@ -47,6 +62,16 @@ pre[class*='language-'] {
 pre[class*='language-'] {
   overflow: auto;
   position: relative;
+}
+
+pre[class*='language-']::-webkit-scrollbar {
+  /* height: 8px; */
+  background-color: var(--color-dark);
+}
+
+pre[class*='language-']::-webkit-scrollbar-thumb { /* Foreground */
+  background-color: var(--color-secondary);
+  border-radius: var(--border-radius);
 }
 
 .language-css > code,
@@ -227,5 +252,5 @@ pre[class*='language-'] {
 
 .cp_embed_wrapper iframe {
   grid-area: container;
-  inline-size: 100%;
+  width: 100%;
 }

@@ -25,12 +25,8 @@ This website transmits itself using HTTPS, encrypting all data between the brows
 
 **Data controller**
 {{ meta.address.firma }}
-{{ meta.address.street }}
-{{ meta.address.zip }}, {{ meta.address.city }}
-Tel: <a href="tel:{{ meta.address.mobileCall }}">{{ meta.address.mobileDisplay }}</a>
+{{ meta.address.city }}
 Mail: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>
-
-If you have any questions or doubts, please contact me: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>
 
 **Changes to the policy**
 If I change the content of this policy, those changes will be effective at the time I post them here.

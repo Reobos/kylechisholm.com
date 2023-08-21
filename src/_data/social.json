@@ -1,22 +1,17 @@
 [
   {
+    "platform": "linkedin",
+    "url": "https://www.linkedin.com/in/chisholmkyle",
+    "icon": "linkedin.svg"
+  },
+  {
     "platform": "github",
-    "url": "https://github.com/madrilene/eleventy-excellent",
+    "url": "https://github.com/reobos",
     "icon": "github.svg"
   },
   {
     "platform": "mastodon",
-    "url": "https://front-end.social/@lene",
+    "url": "https://mastodon.social/@reobos",
     "icon": "mastodon.svg"
-  },
-  {
-    "platform": "ko-fi",
-    "url": "https://ko-fi.com/lenesaile",
-    "icon": "kofi.svg"
-  },
-  {
-    "platform": "rss",
-    "url": "/feed.xml",
-    "icon": "rss.svg"
   }
 ]

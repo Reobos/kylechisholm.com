@@ -11,3 +11,8 @@
   background-size: 50%;
   background-clip: text;
 }
+
+.gradient-heading {
+  color: var(--color-accent);
+  padding: 0.6rem 0;
+}

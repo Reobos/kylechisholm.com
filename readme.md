@@ -85,6 +85,7 @@ npm start
 Minify JS, CSS and HTML.
 
 ```
+source .env
 npm run build
 ```
 

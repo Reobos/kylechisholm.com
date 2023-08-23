@@ -62,7 +62,7 @@ https://eleventy-excellent.netlify.app/
 
 ## Deploy directly to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/madrilene/eleventy-excellent)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ChisholmKyle/kylechisholm.com)
 
 ## Development
 

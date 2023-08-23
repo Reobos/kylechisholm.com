@@ -28,10 +28,12 @@ h1 {
 
 h2 {
   font-size: var(--size-step-4);
+  color: var(--color-secondary);
 }
 
 h3 {
   font-size: var(--size-step-3);
+  color: var(--color-secondary);
 }
 
 /* Set line lengths */

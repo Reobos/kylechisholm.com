@@ -6,12 +6,12 @@
   },
   {
     "platform": "github",
-    "url": "https://github.com/reobos",
+    "url": "https://github.com/ChisholmKyle",
     "icon": "github.svg"
   },
   {
-    "platform": "mastodon",
-    "url": "https://mastodon.social/@reobos",
-    "icon": "mastodon.svg"
+    "platform": "tally",
+    "url": "https://tally.so/r/wo9jrN",
+    "icon": "mail.svg"
   }
 ]

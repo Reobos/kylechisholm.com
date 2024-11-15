@@ -8,9 +8,9 @@ blog:
   intro: "Check out the latest posts below."
 ---
 
-I'm interested in robotics and tech, especially human-centered applications like surgical robotics, assistive and rehabilitation robotics, and collaborative robots. I love solving hard problems related to motion control, sensing and robotics and meeting the needs of clients who interact with the features and products I've worked on over the years. A little more info on my work is provided below. You can access [my resume here](./assets/pdf/cv_kyle_chisholm.pdf).
+I'm interested in robotics and tech, especially human-centered applications like surgical robotics, assistive and rehabilitation robotics, and collaborative robots. A little more info on my work is provided below and you can access [my resume here](./assets/pdf/cv_kyle_chisholm.pdf).
 
-{% imagePlaceholder "./src/assets/images/kyle-void.jpg", "Kyle's head inside a geometric mirrored sculpture, looking upward.", "Looking into the void" %}
+{% imagePlaceholder "./src/assets/images/kyle-void.jpg", "Kyle's head inside a geometric mirrored sculpture, looking upward.", "Looking into the void. Art by @leeborg_" %}
 
 If you happen to come across my website and have yet to say hello, please [fill out this form](https://tally.so/r/wo9jrN) or [message me on LinkedIn](https://www.linkedin.com/in/chisholmkyle). I look forward to chatting with you!
 
@@ -27,3 +27,5 @@ If you happen to come across my website and have yet to say hello, please [fill 
 ### Research
 
 [Paper: A task oriented haptic gait rehabilitation robot](https://doi.org/10.1016/j.mechatronics.2014.07.001)
+[Paper: A task oriented haptic gait rehabilitation robot](https://doi.org/10.1016/j.mechatronics.2014.07.001)
+[MASc Thesis: Design and control for a gait rehabilitation robot](https://repository.library.carleton.ca/concern/etds/gq67jr80r)

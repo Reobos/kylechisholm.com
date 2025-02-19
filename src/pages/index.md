@@ -27,7 +27,7 @@ Trajectory generation is key for beautiful shots and responsive real-time contro
 
 ### Research
 
-I love human-robot interaction and I treasure my days as a researcher prototyping a gait rehabilitation device that had a lot of really cool features like 6 DOf haptics force rendering with force and visual feedback, redundancy resolution, real-time user biomechanics estimation (UKFs are awesome). I also worked ona  bunch of side projects and got deep into C/C++ for real-time robotic controls software.
+I love human-robot interaction and I treasure my days as a researcher prototyping a gait rehabilitation device that had a lot of really cool features like 6 DoF haptics force rendering with force and visual feedback, redundancy resolution, and real-time user biomechanics estimation. I also worked on a bunch of side projects and got deep into C/C++ for real-time robotic controls software.
 
 [Paper: A task oriented haptic gait rehabilitation robot](./assets/pdf/chisholm2014.pdf)
 [Paper: A limb compliant sensing strategy for robot collision reaction](./assets/pdf/miyata2016.pdf)

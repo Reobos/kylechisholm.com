@@ -13,3 +13,5 @@ src/_includes/scripts
 .env
 
 *_gallery/
+
+.DS_Store/

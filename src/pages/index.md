@@ -29,6 +29,9 @@ Trajectory generation is key for beautiful shots and responsive real-time contro
 
 I love human-robot interaction and I treasure my days as a researcher prototyping a gait rehabilitation device that had a lot of really cool features like 6 DoF haptics force rendering with force and visual feedback, redundancy resolution, and real-time user biomechanics estimation. I also worked on a bunch of side projects and got deep into C/C++ for real-time robotic controls software.
 
+I've recently released a robotics library I originally developed during my research years. It's called [**Fancy Safe Bot**](https://fancysafebot.com).
+
+[Code: Fancy Safe Bot robotics library](https://github.com/FancySafeBot/fsb-library)
 [Paper: A task oriented haptic gait rehabilitation robot](./assets/pdf/chisholm2014.pdf)
 [Paper: A limb compliant sensing strategy for robot collision reaction](./assets/pdf/miyata2016.pdf)
 [MASc Thesis: Design and control for a gait rehabilitation robot](https://repository.library.carleton.ca/concern/etds/gq67jr80r)

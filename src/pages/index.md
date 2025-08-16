@@ -11,9 +11,15 @@ I'm interested in robotics and tech, especially human-centered applications like
 
 If you happen to come across my website and have yet to say hello, please [fill out this form](https://tally.so/r/wo9jrN) or [message me on LinkedIn](https://www.linkedin.com/in/chisholmkyle). I look forward to chatting with you!
 
+### Vention
+
+I'm really excited to be working for Vention, a company I've had my eye on for a while now. Vention moves fast and I'm feeling a lot of excitement building out a brand new middleware controller for all the robotics and motion control products being deployed around the world! One of the projects I'm fortunate enough to be a part of is in the physical AI space:
+
+[Autonomous Operator](https://vention.io/ai-operator).
+
 ### Kinova
 
-One of my favorite aspects of my work at Kinova is implementing features that might seem straightforward and intuitive but require a deep understanding of the robotics modeling and mathematics that underpin the technology. It's very satisfying to go from user and systems-level requirements to proof-of-concept and finally a deliverable feature. I work on may aspects of robot manipulators at Kinova including trajectory generation, workspace analysis, collision avoidance, hand-guiding, calibration, actuator tuning and characterization. Here are some products I've had the pleasure of working on:
+One of my favorite aspects of my work at Kinova was implementing features that might seem straightforward and intuitive but require a deep understanding of the robotics modeling and mathematics that underpin the technology. It's very satisfying to go from user and systems-level requirements to proof-of-concept and finally a deliverable feature. I worked on may aspects of robot manipulators at Kinova including trajectory generation, workspace analysis, collision avoidance, hand-guiding, calibration, actuator tuning and characterization. Here are some products I've had the pleasure of working on:
 
 [Link 6](https://www.kinovarobotics.com/product/link-6-cobot)
 [Auris MONARCH Platform](https://www.therobotreport.com/kinova-signs-5-year-extension-support-auris-health/)

@@ -135,6 +135,8 @@ module.exports = eleventyConfig => {
     // Optional (default is set): If your site deploys to a subdirectory, change `pathPrefix`, for example with with GitHub pages
     pathPrefix: '/',
 
+    modifiers: true,
+
     dir: {
       output: 'dist',
       input: 'src',

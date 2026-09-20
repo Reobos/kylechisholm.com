@@ -7,13 +7,23 @@ layout: 'home'
 
 I'm interested in robotics and tech, especially human-centered applications like surgical robotics, assistive and rehabilitation robotics, and collaborative robots. A little more info on my work is provided below and you can access [my resume here](./assets/pdf/kyle_chisholm_cv.pdf).
 
-{% imagePlaceholder "./src/assets/images/kyle-void.jpg", "Kyle's head inside a geometric mirrored sculpture, looking upward.", "Looking into the void. Art by @leeborg_" %}
-
 If you happen to come across my website and have yet to say hello, please [fill out this form](https://tally.so/r/wo9jrN) or [message me on LinkedIn](https://www.linkedin.com/in/chisholmkyle). I look forward to chatting with you!
+
+{% imagePlaceholder "./src/assets/images/kyle_head_cushion.jpg", "Kyle holding an embroidered haptic cushion, smiling.", "Hugging a haptic pillow. Art by @picturesalima" %}
+
+### Fancy Safe Bot
+
+<div class="img-float-start">
+{% imagePlaceholder "./src/assets/images/FSB_icon.png", "Fancy Safe Bot logo." %}
+</div>
+
+I've recently released a robotics library I originally developed during my research years and since have been chipping away at. It's called [**Fancy Safe Bot**](https://fancysafebot.com). The goal is to have a usable Open Source Software for robotics that can be incorporated into a development process certifiable for medical devices or other safety-critical applications.
+
+[Code: Fancy Safe Bot robotics library](https://github.com/FancySafeBot/fsb-library)
 
 ### Vention
 
-I'm really excited to be working for Vention, a company I've had my eye on for a while now. Vention moves fast and I'm feeling a lot of excitement building out a brand new middleware controller for all the robotics and motion control products being deployed around the world! One of the projects I'm fortunate enough to be a part of is in the physical AI space:
+Vention moves fast and I'm building out a brand new middleware controller for all the robotics and motion control products being deployed around the world! It has been rewarding to be able to work on robot vendor integration using Fanuc and Universal Robot's streaming interfaces as well as new motion control modes such as compliant end effector tele-operation and collision-free motion planning. One of the projects I'm fortunate enough to be a part of is in the physical AI space:
 
 [Autonomous Operator](https://vention.io/ai-operator).
 
@@ -35,9 +45,6 @@ Trajectory generation is key for beautiful shots and responsive real-time contro
 
 I love human-robot interaction and I treasure my days as a researcher prototyping a gait rehabilitation device that had a lot of really cool features like 6 DoF haptics force rendering with force and visual feedback, redundancy resolution, and real-time user biomechanics estimation. I also worked on a bunch of side projects and got deep into C/C++ for real-time robotic controls software.
 
-I've recently released a robotics library I originally developed during my research years. It's called [**Fancy Safe Bot**](https://fancysafebot.com).
-
-[Code: Fancy Safe Bot robotics library](https://github.com/FancySafeBot/fsb-library)
 [Paper: A task oriented haptic gait rehabilitation robot](./assets/pdf/chisholm2014.pdf)
 [Paper: A limb compliant sensing strategy for robot collision reaction](./assets/pdf/miyata2016.pdf)
 [MASc Thesis: Design and control for a gait rehabilitation robot](https://repository.library.carleton.ca/concern/etds/gq67jr80r)

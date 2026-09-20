@@ -25,3 +25,16 @@
 .prose :is(ul:not(.grid), ol:not(.grid)) {
   padding-inline-start: var(--space-s);
 }
+
+.prose .img-float-start {
+  width: 100%;
+}
+
+@media (min-width: 38em) {
+  .prose .img-float-start {
+    float: left;
+    width: 40%;
+    margin-inline-end: var(--space-m);
+    margin-block-end: var(--space-s);
+  }
+}

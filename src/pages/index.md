@@ -17,7 +17,7 @@ If you happen to come across my website and have yet to say hello, please [fill 
 {% imagePlaceholder "./src/assets/images/FSB_icon.png", "Fancy Safe Bot logo." %}
 </div>
 
-I've recently released a robotics library I originally developed during my research years and since have been chipping away at. It's called [**Fancy Safe Bot**](https://fancysafebot.com). The goal is to have a usable Open Source Software for robotics that can be incorporated into a development process certifiable for medical devices or other safety-critical applications.
+I've recently released a robotics library I originally developed during my research years. It's called [**Fancy Safe Bot**](https://fancysafebot.com). The goal is to have an open source robotics library that can be incorporated into a development process certifiable for medical devices or other safety-critical applications.
 
 [Code: Fancy Safe Bot robotics library](https://github.com/FancySafeBot/fsb-library)
 
